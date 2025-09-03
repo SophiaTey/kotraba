@@ -53,7 +53,7 @@ body{
 }
 
 .promo{
-    background: url(../img/marcus-lofvenberg-LyghSgFG8QQ-unsplash.jpg)  center center / cover no-repeat;
+    background: url(marcus-lofvenberg-LyghSgFG8QQ-unsplash.jpg)  center center / cover no-repeat;
     min-height: 100vh;
     max-width: 100%;
     position: relative;
@@ -63,7 +63,7 @@ body{
 
     display: flex;
     justify-content: center;
-    background: url(../img/wishlist\ _3.jpeg) no-repeat center center/cover; /* Подставьте ссылку на изображение */
+    background: url(wishlist\ _3.jpeg) no-repeat center center/cover; /* Подставьте ссылку на изображение */
     opacity: 0.8;
     width: 310px;
     height: 280px;
@@ -332,4 +332,5 @@ hr{
   .about-us li {
     
   }
+
 }
