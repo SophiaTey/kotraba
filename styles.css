@@ -143,7 +143,7 @@ text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
   
   .about-us::before {
     content: "";
-    background: url(../img/wishlist\ _3.jpeg) no-repeat center center/cover; /* Подставьте ссылку на изображение */
+    background: url(wishlist\ _3.jpeg) no-repeat center center/cover; /* Подставьте ссылку на изображение */
     position: absolute;
     top: 0;
     left: 0;
@@ -334,3 +334,4 @@ hr{
   }
 
 }
+
